@@ -1,0 +1,53 @@
+name: s5
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  # backendless_sdk: ^7.1.9
+  http: ^0.13.4
+  fluttertoast: ^8.0.9
+  dio: ^4.0.4
+  # path: ^1.7.0
+  path_provider: ^2.0.8
+  shared_preferences: ^2.0.12
+  cookie_jar: ^3.0.1
+  dio_cookie_manager: ^2.0.0
+  image_picker: ^0.8.4+6
+  dropdown_button2: ^1.1.1
+  rflutter_alert: ^2.0.4  
+  cupertino_icons: ^1.0.2
+  curved_navigation_bar: ^1.0.3
+  # flutter_icons: ^1.1.0
+  animated_theme_switcher: ^2.0.1-nullsafety.0
+  google_fonts: ^2.1.0
+  client_cookie: ^3.0.2
+  firebase_core: ^1.16.0
+  firebase_auth: ^3.3.17
+  cloud_firestore: ^3.1.17
+  url_launcher: ^6.1.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  flutter_rename_app: ^1.0.0
+
+flutter_rename_app:
+  application_name: find service
+  dart_package_name: bank_app
+  application_id: com.android.bank
+  bundle_id: com.ios.bank
+  android_package_name: com.bank.app
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/img/
+  
+ #  fonts:
+ #    - family: Poppins
+ #      fonts:
+ #        - asset: assets/Poppins/Poppins-Regular.ttf
+ # 

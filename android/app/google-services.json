@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047149211607",
+    "project_id": "s6project-83029",
+    "storage_bucket": "s6project-83029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047149211607:android:ff4b029dd6897c58b1e592",
+        "android_client_info": {
+          "package_name": "com.ismaillakroune.s6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047149211607-niv6oclrotei4uo86ainoaq9esnsf657.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFDbyVviOxFTAVIXfctEyot3MarYLkUoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047149211607-niv6oclrotei4uo86ainoaq9esnsf657.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

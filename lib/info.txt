@@ -1,0 +1,13 @@
+This is the realization of my graduation project.
+ A mobile mediation application between clients and craftsmen for the academic year 2021/2022 produced by
+  Ismail Lakroune and supervised by Mr. Mohamed ER-ROUIDI.The purpose of this application is to play
+a role of mediation between the client and the craftsman at through several services such as:
+ providing and marketing products or services, allowing access to communication between the two, evaluating the services,
+ in addition to other services...
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ C'est la concrétisation de mon projet de fin d'études.
+ Une application mobile de médiation entre clients et artisans pour l'année académique 2021/2022 
+ réalisée par Ismail Lakroune et supervisée par M. Mohamed Er-rouidi.Le but de cette application est de
+  jouer un rôle de médiation entre le client et l'artisan à travers plusieurs services tels que :
+ fournir et commercialiser des produits ou services, permettre l'accès à la communication entre les deux, évaluer les services,
+ en plus d'autres services..
